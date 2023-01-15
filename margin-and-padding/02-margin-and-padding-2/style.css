@@ -20,7 +20,9 @@ body {
 }
 
 .content {
-  background: #e3f4ff;
+  background: rgb(239, 235, 250);
+  padding: 15px;
+  font-weight: 549;
 }
 
 .button-container {
